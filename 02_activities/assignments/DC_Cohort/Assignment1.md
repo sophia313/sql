@@ -207,6 +207,12 @@ Link if you encounter a paywall: https://archive.is/srKHV or https://web.archive
 
 Consider, for example, concepts of fariness, inequality, social structures, marginalization, intersection of technology and society, etc.
 
+After reading Qadri’s article, I started thinking about how the way we organize data is actually based on our shared knowledge and understanding of society. One thing that came to mind was the word “schema,” which I first learned about in psychology as a way of describing how we organize knowledge. Interestingly, the same term is used in data science to describe how data is structured. If the way we organize data is based on how we understand the world, I think it’s almost unavoidable that some societal biases will be reflected in these systems.
+
+I also think this issue goes beyond databases. Just like government policies or laws, database schemas are often designed around what is considered common or typical in society. However, as the article shows, these general rules don’t always work for people whose circumstances fall outside those expectations. What I find particularly interesting is that while our social values shape these systems, the systems themselves can also reinforce those values over time. In a way, it’s a cycle where society shapes the system, and the system then shapes how people think and behave.
+
+In my own experience working with research data, I haven’t really encountered issues on such a large scale. However, I do notice that decisions about how to categorize or organize data can sometimes be quite subjective. Reading this article made me more aware that even seemingly simple decisions about data organization can reflect our own assumptions, and that it’s worth thinking about who might be left out when we design these systems.
+
 
 ```
 Your thoughts...
