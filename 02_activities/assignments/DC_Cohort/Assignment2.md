@@ -192,5 +192,11 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+The article Neural Nets Are Just People All the Way Down highlights several ethical concerns surrounding artificial intelligence, particularly algorithmic bias, transparency, accountability, and the exploitation of human labour. Although AI systems are often perceived as objective, their development relies heavily on human decisions, from data collection and labeling to defining classification categories. As illustrated by ImageNet, these processes can introduce biases and stereotypes that are subsequently reproduced and potentially amplified by machine learning models.
+
+However, I think an important consideration is that machine learning models are generally trained to approximate human judgments and achieve human-level accuracy. In this sense, biases may be inevitable when models learn from human-generated data. This raises a more interesting question: rather than simply asking how to eliminate bias, how can we develop models that are both ethically responsible and capable of outperforming models trained solely to reproduce human judgments?
+
+I believe this requires reconsidering how we define model performance. Accuracy alone may not be sufficient, particularly when the ground truth itself reflects biased human assumptions. Ethical considerations, such as fairness, transparency, and potential societal harm, should also be incorporated into model evaluation.
+
+More importantly, I wonder how we can leverage ethically designed AI systems in everyday decision-making. If AI can be trained to recognize and mitigate biases that humans frequently overlook, it may offer an opportunity not just to replicate human intelligence, but to improve upon human judgment and promote fairer outcomes.
 ```
